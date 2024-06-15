@@ -1,0 +1,8 @@
+﻿streamlit
+PyPDF2
+crewai
+crewai-tools
+langchain-openai
+langchain-google-genai
+python-dotenv
+pysqlite3-binary
