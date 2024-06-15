@@ -151,6 +151,4 @@ def main():
         st.warning("Please upload both the resume ZIP file, the job description ZIP file, and provide the appropriate API Key.")
 
 if __name__ == "__main__":
-    port = int(os.environ.get('PORT', 8080))
-    st.run(port=port)
     main()
